@@ -14,7 +14,7 @@ WiFiClient client;
 // Channel Number 
 unsigned long myChannelNumber = 1346212; 
 //Write API Key
-const char * myWriteAPIKey = "OQWDX032UM0RDNRJ"; 
+const char * myWriteAPIKey = "*******"; 
 
 
 void setup()
